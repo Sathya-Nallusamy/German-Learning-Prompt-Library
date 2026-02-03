@@ -17,30 +17,11 @@
 
 ---
 
-## 📱 Apps (Free Versions)
-
-### Vocabulary & Flashcards
-
-| App | Best For | Link |
-|-----|----------|------|
-| **Anki** | Spaced repetition flashcards | [ankiweb.net](https://apps.ankiweb.net/) |
-| **Memrise** | Vocabulary with native audio | [memrise.com](https://www.memrise.com/) |
-| **Quizlet** | Pre-made vocabulary sets | [quizlet.com](https://quizlet.com/) |
-
-### General Learning
-
-| App | Best For | Link |
-|-----|----------|------|
-| **Duolingo** | Daily practice, gamified | [duolingo.com](https://www.duolingo.com/) |
-| **Busuu** | Structured lessons | [busuu.com](https://www.busuu.com/) |
-
 ### Dictionary
 
 | App | Best For | Link |
 |-----|----------|------|
 | **dict.cc** | Comprehensive German-English | [dict.cc](https://www.dict.cc/) |
-| **LEO** | Dictionary with forums | [dict.leo.org](https://dict.leo.org/) |
-| **DWDS** | German definitions (advanced) | [dwds.de](https://www.dwds.de/) |
 
 ---
 
@@ -71,22 +52,8 @@
 | Channel | Focus | Link |
 |---------|-------|------|
 | **Learn German with Anja** | Fun, energetic lessons | [YouTube](https://www.youtube.com/c/LearnGermanwithAnja) |
-| **Deutsch für Euch** | Clear grammar explanations | [YouTube](https://www.youtube.com/c/DeutschFuerEuch) |
-| **Easy German** | Street interviews with subtitles | [YouTube](https://www.youtube.com/c/EasyGerman) |
-
-### Grammar Focused
-
-| Channel | Focus | Link |
-|---------|-------|------|
-| **German with Laura** | Simple grammar videos | [YouTube](https://www.youtube.com/c/GermanwithLaura) |
-| **Herr Antrim** | Detailed grammar lessons | [YouTube](https://www.youtube.com/c/LearnGermanwithHerrAntrim) |
-
-### Culture & Immersion
-
-| Channel | Focus | Link |
-|---------|-------|------|
-| **Kurzgesagt – In a Nutshell** | Science (German version) | [YouTube](https://www.youtube.com/c/KurzgesagtDE) |
-| **MrWissen2go** | History & current events | [YouTube](https://www.youtube.com/c/MrWissen2go) |
+| **YourGermanTeacher** | Clear explanations | [YouTube](https://www.youtube.com/@yourgermanteacher) |
+| **Daily Deutsch** | German beginner friendly short stories with subtitles | [YouTube](https://www.youtube.com/@Daily_Deutsch) |
 
 ---
 
@@ -106,13 +73,6 @@
 | **German.net** | Simple grammar explanations | [german.net](https://german.net/) |
 | **mein-deutschbuch.de** | Comprehensive grammar | [mein-deutschbuch.de](https://mein-deutschbuch.de/) |
 
-### Reading Practice
-
-| Website | Description | Link |
-|---------|-------------|------|
-| **Nachrichtenleicht** | News in simple German | [nachrichtenleicht.de](https://www.nachrichtenleicht.de/) |
-| **Zeit Leo** | News for young readers | [zeit.de/zeit-leo](https://www.zeit.de/zeit-leo) |
-
 ---
 
 ## 🎓 Official Exam Resources
@@ -125,23 +85,10 @@
 | **Exam Format** | Structure explanation | [Goethe A1 Info](https://www.goethe.de/en/spr/kup/prf/prf/sd1.html) |
 | **Word List** | Official A1 vocabulary | [Goethe Wortliste](https://www.goethe.de/pro/relaunch/prf/en/A1_SD1_Wortliste_02.pdf) |
 
-### TestDaF & TELC
-
-| Resource | What You Get | Link |
-|----------|--------------|------|
-| **TELC Practice** | Sample tests | [telc.net](https://www.telc.net/) |
 
 ---
 
-## 💬 Speaking Practice (Free Options)
-
-### Language Exchange
-
-| Platform | How It Works | Link |
-|----------|--------------|------|
-| **Tandem** | Find language partners | [tandem.net](https://www.tandem.net/) |
-| **HelloTalk** | Chat with native speakers | [hellotalk.com](https://www.hellotalk.com/) |
-| **ConversationExchange** | Free partner matching | [conversationexchange.com](https://www.conversationexchange.com/) |
+## 💬 Speaking Practice 
 
 ### Practice with AI
 Use the prompts in this repository! See:
@@ -150,56 +97,20 @@ Use the prompts in this repository! See:
 
 ---
 
-## 📖 Books (Free or Low Cost)
+## 📖 Books 
 
-### Free eBooks
 
-| Resource | What You Get | Link |
-|----------|--------------|------|
-| **Project Gutenberg** | German classic texts | [gutenberg.org](https://www.gutenberg.org/) |
-| **Childrenslibrary** | Simple German stories | [childrenslibrary.org](http://www.childrenslibrary.org/) |
+### Netzwerk A1 Companions (My Textbook!)
 
-### Netzwerk A1 Companions (Your Textbook!)
-
-Since you're using **Netzwerk A1**, check:
+Since I'm using **Netzwerk A1**, check:
 - `08_Resources/book-companions/netzwerk-a1.md` — AI prompts aligned with each chapter
 
 ---
-
-## 📅 Daily Study Resource Rotation
-
-Here's how to use these resources throughout the week:
-
-```
-📅 Weekly Resource Schedule:
-┌─────────────────────────────────────────────────┐
-│ Monday    │ AI Prompt (this repo) + Anki       │
-│ Tuesday   │ YouTube lesson + Speaking practice  │
-│ Wednesday │ DW exercises + Podcast              │
-│ Thursday  │ AI Prompt + Grammar review          │
-│ Friday    │ Reading practice + Vocabulary       │
-│ Saturday  │ Easy German video + Review          │
-│ Sunday    │ Light review or rest                │
-└─────────────────────────────────────────────────┘
-```
-
----
-
-## ⭐ Top 5 Resources for A1 Beginners
-
-If you can only use a few resources, these are the best:
-
-1. **This Repository** — Structured AI prompts for systematic learning
-2. **Deutsche Welle** — Free comprehensive course
-3. **Anki** — Vocabulary retention with spaced repetition
-4. **Easy German (YouTube)** — Real conversations with subtitles
-5. **Slow German Podcast** — Listening practice with transcripts
 
 ---
 
 ## 🚫 What to Avoid
 
-- ❌ Paid apps with aggressive upselling
 - ❌ Resources above your level (stay at A1!)
 - ❌ Trying too many resources at once
 - ❌ Passive watching without practice
@@ -213,10 +124,10 @@ If you can only use a few resources, these are the best:
 
 **Vocabulary Session:**
 1. AI Prompt from this repo (15 min)
-2. Anki review (10 min)
+2. Your own vocabulary list review (10 min)
 
 **Listening Session:**
-1. Podcast episode (10 min)
+1. Podcast or Short story episode (10 min)
 2. AI Prompt to discuss what you heard (15 min)
 
 **Grammar Session:**
@@ -225,7 +136,7 @@ If you can only use a few resources, these are the best:
 
 ---
 
-## 📞 Questions?
+## 🤝 Want to Add a Resource?
 
 If you find a great free resource that should be added here, please contribute!
 
