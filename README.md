@@ -83,8 +83,7 @@ Each prompt includes a **⏱️ time estimate** so you know how long it will tak
 
 ### Textbooks
 - ✅ **Netzwerk A1** - Full chapter alignment
-- 🔲 Menschen A1 (Coming Soon)
-- 🔲 Studio D A1 (Coming Soon)
+
 
 ### Exams
 - ✅ **Goethe-Zertifikat A1: Start Deutsch 1**
